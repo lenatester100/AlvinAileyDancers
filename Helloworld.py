@@ -30,7 +30,7 @@ print (9.0/5.0)
 print (9.0/5)
 print (9/5.0)
 print (9/5)
-
+'''
 
 temp = int (input ("what is the temperature?   "))
 def temperature ():
@@ -43,8 +43,4 @@ def temperature ():
          print ("Take me to Hawaii")
 
 temperature()
-'''
-
-
-
 
